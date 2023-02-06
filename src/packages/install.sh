@@ -1,0 +1,3 @@
+#!/bin/bash
+apt-get update
+apt-get -y install build-essential binutils-doc cpp-doc gcc-doc g++ g++-multilib gdb gdb-doc glibc-doc libblas-dev liblapack-dev liblapack-doc libstdc++-10-doc make make-doc clang clang-10-doc lldb clang-format cmake ninja-build libssl-dev libboost-all-dev doctest-dev doxygen libcrypto++-dev libcrypto++-doc libcrypto++-utils libsqlite3-dev sqlite3 blktrace linux-tools-generic strace tcpdump bc curl dc git git-doc man micro nano vim psmisc sudo wget zip unzip tar libreadline-dev locales wamerican libssl-dev dnsutils inetutils-ping iproute2 net-tools netcat telnet time traceroute

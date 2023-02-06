@@ -1,0 +1,8 @@
+{
+  "name": "CS1515 Packages",
+  "id": "packages",
+  "version": "2023",
+  "description": "A feature to install necessary packages",
+  "options": {},
+  "installsAfter": ["ghcr.io/devcontainers/features/common-utils"]
+}
